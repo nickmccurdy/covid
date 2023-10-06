@@ -1,0 +1,22 @@
+id,manufacturer,name,printedShelfLife,extendedShelfLife,extension,note
+158002,"Abbott Diagnostics Scarborough, Inc.",BinaxNOW COVID-19 Ag Card Home Test,15,22,"April 10, 2023",
+158003,"Abbott Diagnostics Scarborough, Inc.",BinaxNOW™ COVID-19 Ag Self Test,15,22,"December 21, 2022","Please note that the lot numbers in this table only represent the numeric portion of the lot number identification for test kits whose printed expiration dates have been extended. Customers may find that their test kits have printed lot numbers with additional alphabetic characters after the numeric value. If your test has a lot number listed in the table above followed by additiona l letters, the extended expiration dates listed also apply.
+For example: a test with lot number 201843AR or 201843C, would have the same extended expiration date as lot number 201843 indicated on the table."
+158005,"ACON Laboratories, Inc",Flowflex COVID-19 Antigen Home Test,21,24,"March 15, 2023",
+158008,InBios International Inc,SCoV-2 Ag Detect Rapid Self-Test,10,13,"May 26, 2022",
+158734,"Access Bio, Inc.",CareStart COVID-19 Antigen Home Test and On/go Antigen Self-Test,15,21,"February 1, 2023",
+159236,"Celltrion USA, Inc.",Celltrion DiaTrust COVID-19 Ag Home Test,18,24,"March 02, 2023","For lot numbers with (*), if your test has this lot number followed by additional letters, the expiration dates listed also apply. For example, a test with lot number COVSA1001, would have the same manufacture date as lot numbers COVSA1001-A or COVSA1001-HF. Lot numbers COVSA1001-A or COVSA1001-HF would have the same extended expiration date as COVSA1001 in the table above."
+159640,"SD Biosensor, Inc.",Pilot COVID-19 At-Home Test,9,12,"October 14, 2022",
+160581,"Maxim Biomedical, Inc.",MaximBio ClearDetect COVID-19 Antigen Home Test,8,12,"January 9, 2023",
+161056,"Lucira Health, Inc",Lucira CHECK-IT COVID-19 Test Kit,12,18,"July 28, 2022",
+161057,"OraSure Technologies, Inc.",InteliSwab COVID-19 Rapid Test,18,24,"September 26, 2023",
+161358,OSANG LLC,OHC COVID-19 Antigen Self Test,18,24,"September 26, 2026",
+162056,Quidel Corporation,QuickVue At-Home OTC COVID-19 Test,12,16,"September 23, 2022",
+162503,Siemens Healthineers,CLINITEST Rapid COVID-19 Antigen Self-Test,11,24,"October 12, 2022",
+164551,"iHealth Labs, Inc.",iHealth COVID-19 Antigen Rapid Test,12,15,"January 11, 2023",
+165822,Watmind USA,Speedy Swab Rapid COVID-19 Antigen Self-Test,6,21,"February 21, 2023",
+167722,"Beijing Hotgen Biotech Co., Ltd.",Hotgen COVID-19 Antigen Home Test,6,10,"April 13, 2023",
+168236,"Xiamen Boson Biotech Co., Ltd.",Rapid SARS-CoV-2 Antigen Test Card,6,11,"May 05, 2023",
+169735,"PHASE Scientific International, Ltd.",INDICAID COVID-19 Rapid Antigen At-Home Test,12,15,"June 16, 2023",
+170703,Pfizer Inc.,Lucira by Pfizer COVID-19 & Flu Home Test,15,18,"September 6, 2023",
+172663,Advin Biotech Inc.,Advin COVID-19 Antigen Test @Home,12,15,"September 20, 2023",
