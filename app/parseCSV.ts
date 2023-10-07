@@ -3,7 +3,7 @@ import { parse, type ParseConfig } from "papaparse";
 
 export default async function parseCSV<T>(
 	path: string | Buffer | URL | FileHandle,
-	dynamicTyping?: ParseConfig["dynamicTyping"],
+	dynamicTyping: ParseConfig["dynamicTyping"] = true,
 ) {
 	const { data, errors } = parse<T>(
 		await readFile(path, { encoding: "utf8" }),
