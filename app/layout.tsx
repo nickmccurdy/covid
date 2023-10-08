@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import "./globals.css";
 
 export const metadata = {
 	title: "COVID-19 Test Extensions",
